@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VendorMicroservices</name>
+    </assembly>
+    <members>
+        <member name="M:VendorMicroservices.Controllers.VendorController.GetVendorDetails(System.Int32)">
+            <summary>
+            Give List Of Vendors for the given Product
+            </summary>
+            <return>
+            Returns List Of Vendors for the given Product
+            </return>
+            <remarks>
+            Sample request
+            GET /api/Vendor
+            
+            </remarks>
+            <response code="200">Returns List Of Vendors for the given Product</response>
+        </member>
+    </members>
+</doc>
