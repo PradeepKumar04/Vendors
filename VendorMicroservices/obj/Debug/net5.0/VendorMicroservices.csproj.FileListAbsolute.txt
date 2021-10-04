@@ -1,0 +1,134 @@
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\log4net2.config
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\appsettings.Development.json
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\appsettings.json
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.exe
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.deps.json
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.runtimeconfig.json
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.runtimeconfig.dev.json
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\ref\VendorMicroservices.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.pdb
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Humanizer.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\log4net.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.csproj.AssemblyReference.cache
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.AssemblyInfoInputs.cache
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.AssemblyInfo.cs
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.csproj.CoreCompileInputs.cache
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.MvcApplicationPartsAssemblyInfo.cs
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.MvcApplicationPartsAssemblyInfo.cache
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\staticwebassets\VendorMicroservices.StaticWebAssets.Manifest.cache
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\staticwebassets\VendorMicroservices.StaticWebAssets.xml
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\scopedcss\bundle\VendorMicroservices.styles.css
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.RazorTargetAssemblyInfo.cache
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.csproj.CopyComplete
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.dll
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\ref\VendorMicroservices.dll
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.pdb
+D:\Vendors\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.genruntimeconfig.cache
+D:\Vendors\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.xml
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.csprojAssemblyReference.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.AssemblyInfoInputs.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.AssemblyInfo.cs
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.csproj.CoreCompileInputs.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\ref\VendorMicroservices.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\appsettings.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.exe
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.deps.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.runtimeconfig.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.runtimeconfig.dev.json
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\ref\VendorMicroservices.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\VendorMicroservices.xml
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\log4net.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\staticwebassets\VendorMicroservices.StaticWebAssets.Manifest.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\staticwebassets\VendorMicroservices.StaticWebAssets.xml
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\scopedcss\bundle\VendorMicroservices.styles.css
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.RazorTargetAssemblyInfo.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.csproj.CopyComplete
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\obj\Debug\net5.0\VendorMicroservices.genruntimeconfig.cache
+C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\log4net.config

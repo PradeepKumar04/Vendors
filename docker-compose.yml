@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  vendormicroservices:
+    image: ${DOCKER_REGISTRY-}vendormicroservices
+    build:
+      context: .
+      dockerfile: VendorMicroservices/Dockerfile

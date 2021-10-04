@@ -1,0 +1,29 @@
+2021-10-04 19:37:02,761 [1] FATAL Microsoft.AspNetCore.Hosting.Diagnostics - Application startup exception
+System.IO.FileNotFoundException: Could not find file 'C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\log4net.config'.
+File name: 'C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\bin\Debug\net5.0\log4net.config'
+   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.OpenRead(String path)
+   at Microsoft.Extensions.Logging.Log4NetProvider.ParseLog4NetConfigFile(String filename)
+   at Microsoft.Extensions.Logging.Log4NetProvider.ConfigureLog4NetLibrary(Assembly assembly)
+   at Microsoft.Extensions.Logging.Log4NetProvider..ctor(Log4NetProviderOptions options)
+   at Microsoft.Extensions.Logging.Log4NetExtensions.AddLog4Net(ILoggerFactory factory, Log4NetProviderOptions options)
+   at Microsoft.Extensions.Logging.Log4NetExtensions.AddLog4Net(ILoggerFactory factory)
+   at VendorMicroservices.Startup.Configure(IApplicationBuilder app, IWebHostEnvironment env, ILoggerFactory loggerFactory) in C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices\Startup.cs:line 96
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.Invoke(Object instance, IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.<>c__DisplayClass4_0.<Build>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass15_0.<UseStartup>b__1(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Mvc.Filters.MiddlewareFilterBuilderStartupFilter.<>c__DisplayClass0_0.<Configure>g__MiddlewareFilterBuilder|0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISServerSetupFilter.<>c__DisplayClass2_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.HostFilteringStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+2021-10-04 19:39:24,401 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-04 19:39:24,446 [1] INFO Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-10-04 19:39:24,450 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-04 19:39:24,450 [1] INFO Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-10-04 19:39:24,453 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices
+2021-10-04 19:39:24,453 [1] INFO Microsoft.Hosting.Lifetime - Content root path: C:\Users\sushm_4qm2dck\OneDrive\Desktop\RPMS Project\Vendors-main (1)\Vendors-main\VendorMicroservices
